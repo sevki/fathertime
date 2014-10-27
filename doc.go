@@ -3,6 +3,8 @@
 // license that can be found in the LICENSE file.
 
 /*
+Package fathertime converts time.Time in to human readable string
+
 TimeInWords returns time in words.
 Conversion follows the format.
 0-4   secs                                                                # => less than 5 seconds
