@@ -2,7 +2,6 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-
 // Package fathertime converts time.Time in to human readable string
 // TimeInWords returns time in words.
 // Conversion follows the format.
@@ -23,5 +22,4 @@
 //	1 yr, 3 months <-> 1 yr, 9 months                                         # => over 1 year
 //	1 yr, 9 months <-> 2 yr minus 1 sec                                       # => almost 2 years
 //	2 yrs <-> max time or date                                                # => (same rules as 1 yr)
-
 package fathertime
