@@ -5,6 +5,7 @@
 // Package fathertime converts time.Time in to human readable string
 // TimeInWords returns time in words.
 // Conversion follows the format.
+//
 //	0-4   secs                                                                # => less than 5 seconds
 //	5-9   secs                                                                # => less than 10 seconds
 //	10-19 secs                                                                # => less than 20 seconds
