@@ -1,2 +1,2 @@
-// Moved to sevki.org/lib/time
-package fathertime // imports "sevki.org/lib/time"
+// Moved to https://sevki.org/lib/time
+package fathertime // import "sevki.org/lib/time"
